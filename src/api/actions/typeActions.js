@@ -1,0 +1,3 @@
+export const ADD_PLACE = 'ADD_PLACE';
+export const SET_PLACE = 'SET_PLACES';
+export const SET_SAVE_BUTTON_VALUE= 'SET_SAVE_BUTTON_VALUE';
